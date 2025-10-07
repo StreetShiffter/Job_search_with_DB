@@ -1,6 +1,6 @@
  
 <h3 style="background: linear-gradient(257deg, Gold, green); -webkit-background-clip: text; color: transparent;">
-  Проект курсовая "Парсер вакансий hh.ru через SQL"
+  Проект "Парсер вакансий hh.ru через SQL"
 </h3> 
 
 # 🔖 Описание проекта:
